@@ -1,0 +1,11 @@
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+img.login-google-logo {
+    width: 35px;
+    margin-right: 10px;
+}
